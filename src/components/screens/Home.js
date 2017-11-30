@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import { Button, Text, Content, Icon } from 'native-base';
+import { Content } from 'native-base';
 import { connect } from 'react-redux';
 import * as actions from '../../actions';
+import Login from './Login';
 
 class Home extends Component {
 
@@ -15,13 +16,7 @@ class Home extends Component {
     render() {
         return (
             <Content style={{ margin: 10 }}>
-                <Button
-                    iconLeft
-                    onPress={this.onButtonPress.bind(this)}
-                >
-                    <Icon name='beer' />
-                    <Text>Beer</Text>
-                </Button>
+                <Login />
             </Content>
         );
     }

@@ -1,4 +1,4 @@
-package com.reactnativereduxboilerplate;
+package com.vlog;
 
 import android.app.Application;
 
