@@ -12,7 +12,13 @@
     "native-base": "^2.3.2",
     "react": "16.0.0-alpha.12",
     "react-native": "0.48.3",
+    "react-native-camera": "^0.6.0",
     "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-mediapicker": "^0.4.1",
+    "react-native-thumbnail": "^1.1.0",
+    "react-native-vertical-view-pager": "^0.1.1",
+    "react-native-video": "^2.0.0",
+    "react-native-video-player": "^0.8.6",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2"
   },

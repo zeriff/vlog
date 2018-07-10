@@ -1,29 +1,11 @@
-import React, { Component } from 'react';
-import { Container } from 'native-base';
-import { connect } from 'react-redux';
-import Spinner from 'react-native-loading-spinner-overlay';
-import Home from './components/screens/Home';
+import React from 'react';
+import AppNavigation from './components/AppNavigation';
 
-class App extends Component {
-
-    render() {
-        return (
-            <Container>
-                <Home />
-                <Spinner
-                    color='#3F51B5'
-                    cancelable
-                    visible={this.props.loading}
-                />
-            </Container>
-        );
-    }
-
+const App = () => {
+    return (
+        <AppNavigation />
+    );
 }
 
+export default App;
 
-const mapStateToProps = (state) => ({
-    loading: state.loading
-});
-
-export default connect(mapStateToProps)(App);

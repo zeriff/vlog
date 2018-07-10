@@ -30,6 +30,114 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b2a32132039ade59f9d7d41b024eba8fd261052f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_f4b773af8545f51801b7e50408fb1b8a776e7cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/VLOG/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec23182e70e469461327ce90451d13e22019d62f">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/VLOG-react-native-camera-unspecified_bc9a24d38e46b8d99322269f110ca37ac2962184.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.48.3_4091673976d4159622089261ac6882c9235cc214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_5d42af9e719480d9c163b0e4d2fc75cbdd3e7f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.4_83c1f051532a64cd71e4a660ac010f73eff79f5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_609b8fecceb783486b30eaf663461fdbc0c1c030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_5eb3882a761f373e1e817245ee5d5c2e5f90e4c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_f83a6ead8e69ab10746a879a45027c6962345bf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_15a4ad5bc2a2eb2a694a3126f3a31acd29813ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/VLOG/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="891759e90a19f234f523d59941e51cf7b6006a75">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/VLOG-react-native-video-unspecified_e5529ff590db87c65f1a68d176baec60ebffb791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_6f2c50e25bc17afb4d3bea97d037dd63baa892d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -45,15 +153,6 @@
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
         <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_44eafae63ce79748314f4e79558cf3a81a0d0f29.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b2a32132039ade59f9d7d41b024eba8fd261052f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,15 +183,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
-        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.48.3_4091673976d4159622089261ac6882c9235cc214.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -111,30 +201,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/sujan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_5d42af9e719480d9c163b0e4d2fc75cbdd3e7f0b.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
         <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_c11a30d060d8c7f8785290d09479dd76fb4e60f6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_609b8fecceb783486b30eaf663461fdbc0c1c030.jar" />
     </item>
     <item
         is-multidex="false"
@@ -147,12 +219,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/sujan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/Users/sujan/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_f83a6ead8e69ab10746a879a45027c6962345bf3.jar" />
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_8eeed21c048b1d7142ffe70df67a931b98c12e4b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -165,30 +237,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/sujan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_15a4ad5bc2a2eb2a694a3126f3a31acd29813ca8.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/sujan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
         <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_5a7980fadce07748cffed5c87bfbd30bf125d92e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sujan/zeriff/vlog/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/sujan/zeriff/vlog/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_6f2c50e25bc17afb4d3bea97d037dd63baa892d2.jar" />
     </item>
 
 </items>
